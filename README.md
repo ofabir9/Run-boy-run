@@ -1,8 +1,9 @@
 # Run-boy-run
 My first unity game
 
-Use 'A' & 'S'
-rest u will figure out.
+## Control
+Use 'A' & 'S'.
+U will figure out the rest.
 
 ## To play on your browser, go to this link
 
