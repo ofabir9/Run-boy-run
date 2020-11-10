@@ -2,7 +2,7 @@
 My first unity game
 
 
-Trouble Shooting:
+##Trouble Shooting:
 
 If your browser showes "browser does not support running Unity WebGL content from file:// urls"
 
